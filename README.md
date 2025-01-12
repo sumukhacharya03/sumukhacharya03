@@ -11,20 +11,9 @@ I possess strong qualities in teamwork, communication, problem-solving and genui
 
 ## 📊 GitHub Stats  
 
-<a
-  href="/resume.pdf"
-  download="Sumukh_Acharya_Resume.pdf" // This sets the file name when downloading
-  className="flex items-center gap-2 hover:underline hover:underline-offset-4"
->
-  <Image
-    src="/resume.jpg"
-    alt="Resume Icon"
-    width={16}
-    height={16}
-  />
-  Resume
-</a>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumukhacharya03&show_icons=true&theme=radical)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhacharya03&layout=compact&theme=radical)  
 
 ## 🛠️ Skills  
 
