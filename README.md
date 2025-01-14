@@ -11,10 +11,6 @@ I possess strong qualities in teamwork, communication, problem-solving and genui
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumukhacharya03&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhacharya03&layout=compact&theme=radical)  
-
 ## 🛠️ Skills  
 
 <p align="center">
