@@ -15,8 +15,6 @@ I possess strong qualities in teamwork, communication, problem-solving and genui
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhacharya03&layout=compact&theme=radical)  
 
-## 🛠️ Skills  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -34,7 +32,11 @@ I possess strong qualities in teamwork, communication, problem-solving and genui
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</p>  
+  <img src="https://img.shields.io/badge/Kafka-F5792A?style=for-the-badge&logo=kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+</p>
+ 
 
 ## 💡 Interests  
 - Data Analytics  
