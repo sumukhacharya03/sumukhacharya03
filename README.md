@@ -9,6 +9,14 @@ In my free time, I enjoy learning new technologies, exploring creative ideas, an
 I love playing chess and badminton and I am passionate about Photography.
 I possess strong qualities in teamwork, communication, problem-solving and genuine eagerness to learn new things.
 
+## Connect with Me 🌐
+
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumukh-acharya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumukh-acharya-6859ab312/)
+[![VSCO](https://img.shields.io/badge/VSCO-000?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/sumukhacharya/gallery)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumukh.acharya@gmail.com)
+
+
 ## 📊 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumukhacharya03&show_icons=true&theme=radical)  
