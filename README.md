@@ -15,6 +15,8 @@ I possess strong qualities in teamwork, communication, problem-solving and genui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumukh-acharya-6859ab312/)
 [![VSCO](https://img.shields.io/badge/VSCO-000?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/sumukhacharya/gallery)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumukh.acharya@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](<Sumukh_Acharya_Resume.pdf>)
+
 
 
 ## 📊 GitHub Stats  
