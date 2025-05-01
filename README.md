@@ -50,9 +50,8 @@ I possess strong qualities in teamwork, communication, problem-solving and genui
 </p>
  
 
-## 💡 Skills  
+## 💡 Interests  
 - Data Analytics  
 - Machine Learning  
 - Databases  
 - Big Data
-- Web Dev (to a certain extent)
