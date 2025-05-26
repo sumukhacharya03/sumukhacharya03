@@ -9,7 +9,7 @@ In my free time, I enjoy learning new technologies, exploring creative ideas, an
 I am passionate about Photography.
 
 
-## Connect with Me 🌐
+## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumukh-acharya.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumukh.acharya@gmail.com)
