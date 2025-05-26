@@ -6,8 +6,8 @@ I'm deeply interested in exploring the world of **Data Analytics**, **Machine Le
 My projects and research aim to create meaningful solutions to real-world problems, leveraging technology to make a difference.  
 
 In my free time, I enjoy learning new technologies, exploring creative ideas, and researching new projects. 
-I love playing chess and badminton and I am passionate about Photography.
-I possess strong qualities in teamwork, communication, problem-solving and genuine eagerness to learn new things.
+I am passionate about Photography.
+
 
 ## Connect with Me 🌐
 
