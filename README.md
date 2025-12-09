@@ -1,11 +1,14 @@
 ## About Me  
 
-I'm a final-year Computer Science student at PES University, fascinated by the stories data can tell. My main interest lies in Data Analytics and Machine Learning, and I'm always looking for opportunities to apply what I'm learning to solve interesting problems. I also have a growing curiosity for web development, big data and database systems, aiming to build a broad skill set. Outside of the tech world, I enjoy capturing moments through photography and the strategic challenge of chess.
+I’m a final-year Computer Science student at PES University and currently an AI Intern at Tvam Technologies. My work focuses on fine-tuning language models, and I’m deeply fascinated by how AI can be applied to solve meaningful real-world problems. As I grow in this field, I aim to advance from fine-tuning existing models to building my own.
+
+I’m always looking for opportunities to strengthen my skills, take on new challenges, and contribute to impactful projects. I also have a growing interest in Big Data and Database Systems, helping me build a strong and versatile technical foundation.
+
+Outside of technology, I enjoy capturing moments through photography and love the strategic challenge of chess.
 
 ## Connect with Me
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](<Sumukh_Acharya_Resume.pdf>)
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumukh-acharya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumukh-acharya-6859ab312/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SumukhAcharya07/)
 [![VSCO](https://img.shields.io/badge/VSCO-000?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/sumukhacharya/gallery)
